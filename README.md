@@ -28,3 +28,13 @@ If you have a suggestion to add resources or want to add some you can open an is
 [A bit about syscalls](https://www.youtube.com/watch?v=fLS99zJDHOc)
 
 [What are namespaces](https://www.youtube.com/watch?v=-YnMr1lj4Z8)
+
+[Yooo I want to learn some networking deeper](https://www.youtube.com/playlist?list=PLHh55M_Kq4OCZOAxs2KZyCawhX38YR154)
+
+[Networking Resource by Ben Eater](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
+
+[Linux from Scratch Docs](https://www.linuxfromscratch.org/lfs/read.html)
+
+[Linux from Scratch Cyan Nyan](https://youtube.com/playlist?list=PLjxmgthn5WK_43uf9afQm28xF4PrvsdfI)
+
+[Linux from Scratch by Victor Engelmman with in depth explaination](https://youtube.com/playlist?list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
