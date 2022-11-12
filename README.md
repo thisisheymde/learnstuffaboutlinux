@@ -21,7 +21,7 @@ If you have a suggestion to add resources or want to add some you can open an is
 
 [What is even a container by Julia Evans](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
 
-[Awesome resource by Sascha Grunert](https://github.com/saschagrunert/demystifying-containers)
+[Container deep dive by Sascha Grunert](https://github.com/saschagrunert/demystifying-containers)
 
 [Sup bubblewrap](https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/)
 
