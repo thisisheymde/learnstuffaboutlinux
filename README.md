@@ -19,6 +19,8 @@ If you have a suggestion to add resources or want to add some you can open an is
 
 [Bit Old but amazing resource](https://linux.die.net/)
 
+[Things to know about Linux by Juila Evans](https://jvns.ca/blog/2016/11/21/things-to-learn-about-linux/)
+
 [What is even a container by Julia Evans](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
 
 [Container deep dive by Sascha Grunert](https://github.com/saschagrunert/demystifying-containers)
