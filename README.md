@@ -40,3 +40,14 @@ If you have a suggestion to add resources or want to add some you can open an is
 [Linux from Scratch Cyan Nyan](https://youtube.com/playlist?list=PLjxmgthn5WK_43uf9afQm28xF4PrvsdfI)
 
 [Linux from Scratch by Victor Engelmman with in depth explaination](https://youtube.com/playlist?list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
+
+## Easy archlinux installation
+
+[Archlinux installation by mental outlaw]{https://www.youtube.com/watch?v=rUEnS1zj1DM}
+
+[Archlinux installation by DenshiVideo](https://www.youtube.com/watch?v=68z11VAYMS8)
+
+## DevOps 
+[DevOps Concepts by nana](https://www.youtube.com/playlist?list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG)
+
+[Courses by nana](https://www.youtube.com/playlist?list=PLy7NrYWoggjxtN4YbSMYFFdpaxb-fR4zC)
