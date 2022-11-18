@@ -43,7 +43,7 @@ If you have a suggestion to add resources or want to add some you can open an is
 
 ## Easy archlinux installation
 
-[Archlinux installation by mental outlaw]{https://www.youtube.com/watch?v=rUEnS1zj1DM}
+[Archlinux installation by mental outlaw](https://www.youtube.com/watch?v=rUEnS1zj1DM)
 
 [Archlinux installation by DenshiVideo](https://www.youtube.com/watch?v=68z11VAYMS8)
 
