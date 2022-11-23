@@ -41,6 +41,8 @@ If you have a suggestion to add resources or want to add some you can open an is
 
 [Linux from Scratch by Victor Engelmman with in depth explaination](https://youtube.com/playlist?list=PLHh55M_Kq4OAPznDEcgnkQsbjgvG-QFBR)
 
+[Learn Shell](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/)
+
 ## Easy archlinux installation
 
 [Archlinux installation by mental outlaw](https://www.youtube.com/watch?v=rUEnS1zj1DM)
